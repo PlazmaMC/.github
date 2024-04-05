@@ -6,9 +6,9 @@ PlazmaMC is an open source software organization that focuses on optimizing Mine
 
 ###
 
-[![Mail](https://img.shields.io/badge/-the@plazmamc.org-EA4335?style=flat-square&logo=gmail&logoColor=fcfcfc)](mailto:the@plazmamc.org)
-[![Discord](https://img.shields.io/discord/1083716853928558652?style=flat-square&logo=discord&logoColor=ffffff&label=Discord&color=5865F2)](https://discord.gg/MmfC52K8A8)
-[![Followers](https://img.shields.io/github/stars/PlazmaMC?style=flat-square&logo=github&label=Followers&color=yellow)](https://github.com/orgs/PlazmaMC/followers)
+[![Mail](https://badge.plazmamc.org/mailini)](mailto:the@plazmamc.org)
+[![Discord](https://badge.plazmamc.org/dismini)](https://discord.gg/MmfC52K8A8)
+[![Followers](https://badge.plazmamc.org/gitmini)](https://github.com/orgs/PlazmaMC/followers)
 
 ### What we made
 - **[Plazma](https://github.com/PlazmaMC/PlazmaBukkit)** - A Server Platform for Minecraft: Java Edition based on Paper, which provides the fastest perfomance
